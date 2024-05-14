@@ -1,0 +1,7 @@
+Referencias Usadas En Bafe
+
+Bootstrap
+Framework e iconos usados desde (https://getbootstrap.com/)
+
+Freepik 
+iconos descargados desde (www.freepik.es)
