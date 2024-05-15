@@ -23,9 +23,6 @@
     display: block;
     margin: 0 auto;
 }
-.me-2 a {
-    text-decoration: none;
-}
 
 /*Carrusel*/
 .carousel-item{
@@ -55,4 +52,7 @@
 .carousel-inner {
     overflow: hidden;
 }
-
+a.noline {
+    text-decoration: none;
+    color: inherit; 
+  }
