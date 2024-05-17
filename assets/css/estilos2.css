@@ -1,0 +1,67 @@
+/*Ingreo e Inicio de sesion*/
+.login {
+    min-height: 100vh;
+}
+
+.login-heading {
+    font-weight: 300;
+}
+
+.btn-login {
+    font-size: 0.9rem;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+}
+
+.texto {
+    text-align: left;
+    padding-right: 20px;
+    position: relative;
+    top: -68px; /* Ajusta este valor según sea necesario */
+    white-space: pre-line;
+}
+
+body{
+    background-image: url();
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-attachment: fixed;
+}
+
+.tipodeletra1{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+.tipodeletra2{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+/*Navegador*/
+.navbar {
+    padding-top: 35px; /* Ajusta el valor según sea necesario para aumentar la altura del navbar hacia arriba */
+    padding-bottom: 35px; /* Ajusta el valor según sea necesario para aumentar la altura del navbar hacia abajo */
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Centra el contenido horizontalmente */
+    height: 100%; /* Asegura que el contenido ocupe toda la altura del navbar */
+}
+
+.navbar-brand img {
+    width: 80px; /* Ajusta el tamaño de la imagen según sea necesario */
+    height: auto; /* Permite que la altura se ajuste automáticamente para mantener la proporción */
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+.me-2 a {
+    text-decoration: none;
+}
